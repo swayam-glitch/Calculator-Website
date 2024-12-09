@@ -8,7 +8,6 @@ A simple and interactive web-based calculator built with HTML, CSS, and JavaScri
 - Displays results in real-time
 - Clear (AC) and Delete functionality
 - Error handling for invalid operations (e.g., division by zero)
-- Responsive design for mobile and desktop devices
 
 ## Demo
 You can try out the calculator here:  
