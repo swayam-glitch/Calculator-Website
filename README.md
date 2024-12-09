@@ -12,7 +12,7 @@ A simple and interactive web-based calculator built with HTML, CSS, and JavaScri
 
 ## Demo
 You can try out the calculator here:  
-[Live Demo]()
+[Live Demo](https://swayam-glitch.github.io/Calculator-Website/)
 
 ## Technologies Used
 - **HTML**: Structure of the web page.
